@@ -1,2 +1,2 @@
 # BallBreaker
-A 2D Brick breaker game
+## A 2D Brick breaker game
